@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Last week I had a quick chat with a friend about a known limit of both [John the Ripper](https://www.openwall.com/john/) and [hashcat[(https://hashcat.net/hashcat/).
+Last week I had a quick chat with a friend about a known limit of both [John the Ripper](https://www.openwall.com/john/) and [hashcat](https://hashcat.net/hashcat/).
 
 This is a known issue so far: [mubix](https://room362.com/post/2017/05-06-2017-password-magic-numbers/) talked about it in mid 2017 and also [notsosecure](https://www.notsosecure.com/maximum-password-length-reached/) did some further reasearch.
 
